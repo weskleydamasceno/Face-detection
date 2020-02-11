@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1054597195719-6nu4h2ifp1rgmuf940s4uu0ij3up7kbl.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://face-recognition-67a6e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1054597195719</string>
+    <string name="google_api_key" translatable="false">AIzaSyCvl-AYOHyr2EDO-Xwj4zg3oypBKx6p7us</string>
+    <string name="google_app_id" translatable="false">1:1054597195719:android:8712367f965cfbc5aa5be2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCvl-AYOHyr2EDO-Xwj4zg3oypBKx6p7us</string>
+    <string name="google_storage_bucket" translatable="false">face-recognition-67a6e.appspot.com</string>
+    <string name="project_id" translatable="false">face-recognition-67a6e</string>
+</resources>

@@ -1,0 +1,4 @@
+#Tue Feb 11 16:52:49 BRT 2020
+base.0=/home/weskley/Documentos/projetos/face_recognition/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

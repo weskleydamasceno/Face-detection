@@ -1,0 +1,348 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/014dc8d7dcf78ac67fdef3838cd16207/jetified-firebase-ml-vision-face-model-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /home/weskley/Documentos/projetos/face_recognition/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-ml-vision:20.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/e9cd5b5dedb0a4aa083be0c4edd1aefe/jetified-firebase-ml-vision-20.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/b29e6cfe54f6d3fab0fc8ccf05a9102d/play-services-vision-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/99e7c4a58577bca83db223c97d7dff44/play-services-vision-image-label-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/18e0b767e0f8cce89b7a46aca296c018/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:19.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/a7e4d55e6bd8f3a703b704ab36531a0a/jetified-firebase-ml-common-19.0.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9fb2f212d994b1d71428d565fe562e3/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/ccc53957a908389ce7a84b79afabea1e/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9375d3611009f879cb85fe83918bea2/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/9d8dda95f0233e381fde59c2ddf62aca/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/2ce0ac5a1a0481fd0a028c580ddbb66c/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/b3c5161c7b672b6f922c3505b80df67f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/33fb79733b762052608f3eced8d10993/jetified-play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/6bc9442bee021f83936555595f95b7dd/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f2ba23bc4224dd33fad9b812de05bb41/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/e4d772ea0ed737341301f68be113b6ed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/47b5a1665655a429cae174b1269e713d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/98a4350584676a6f0f58aef926c98933/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/038b9ff0d8c0ceb2017ef2cd12ed4646/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/51b086b1b791eed8656ba914c890f880/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bf8ebda2bece3aea1ad3805330337bf6/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/80592ed26f0b9ba4884a15a558e5cd33/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/c8251e355b7f629a0c502e139fee9f7f/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/5319131a6b01dd1457a7d496e0d6346a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/984000823dd7be305a9eadc28f0d58e7/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/3196c46764a8b609b31cb85960638548/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/3e6777de6493bd313cbaff0118a09e4f/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f34aabc8ed02f49192dc1f3623f5bf7c/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/c4afb69fe904e0a84c017dd5a832f5d6/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/76af12d4ffbc96ac38b945e7e926455e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/aecbb87bffc159dea14f48916c4fb9d3/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/2d763cb1f88d97ba4c06b8ba62123847/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/3a87cb7583972c9f507112d7dbb0e4df/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/b5b1e7e01b0e06c197d458b4202f56fe/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/6de137bffcbd27d1e32e35b13ab90f43/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/46e04de9731906cca3a7d91d44721539/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/001ef66b08bffb45d7464349841a7db7/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/04ff8335b489f21ae8c90a845490c350/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/4be73fe0445f1c68f41d078194be4bba/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:2:5-43
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/014dc8d7dcf78ac67fdef3838cd16207/jetified-firebase-ml-vision-face-model-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/014dc8d7dcf78ac67fdef3838cd16207/jetified-firebase-ml-vision-face-model-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/b29e6cfe54f6d3fab0fc8ccf05a9102d/play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/b29e6cfe54f6d3fab0fc8ccf05a9102d/play-services-vision-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/99e7c4a58577bca83db223c97d7dff44/play-services-vision-image-label-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/99e7c4a58577bca83db223c97d7dff44/play-services-vision-image-label-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/18e0b767e0f8cce89b7a46aca296c018/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/18e0b767e0f8cce89b7a46aca296c018/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9fb2f212d994b1d71428d565fe562e3/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9fb2f212d994b1d71428d565fe562e3/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9375d3611009f879cb85fe83918bea2/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9375d3611009f879cb85fe83918bea2/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/2ce0ac5a1a0481fd0a028c580ddbb66c/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/2ce0ac5a1a0481fd0a028c580ddbb66c/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/b3c5161c7b672b6f922c3505b80df67f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/b3c5161c7b672b6f922c3505b80df67f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/33fb79733b762052608f3eced8d10993/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/33fb79733b762052608f3eced8d10993/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/3e6777de6493bd313cbaff0118a09e4f/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/3e6777de6493bd313cbaff0118a09e4f/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/b5b1e7e01b0e06c197d458b4202f56fe/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/b5b1e7e01b0e06c197d458b4202f56fe/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/3e6777de6493bd313cbaff0118a09e4f/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:9:9-57
+activity#com.example.face_recognition.MainActivity
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:12:9-23:20
+	android:launchMode
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml:27:13-44
+uses-sdk
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/014dc8d7dcf78ac67fdef3838cd16207/jetified-firebase-ml-vision-face-model-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision-face-model:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/014dc8d7dcf78ac67fdef3838cd16207/jetified-firebase-ml-vision-face-model-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/weskley/Documentos/projetos/face_recognition/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /home/weskley/Documentos/projetos/face_recognition/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:20.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/e9cd5b5dedb0a4aa083be0c4edd1aefe/jetified-firebase-ml-vision-20.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:20.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/e9cd5b5dedb0a4aa083be0c4edd1aefe/jetified-firebase-ml-vision-20.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/b29e6cfe54f6d3fab0fc8ccf05a9102d/play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/b29e6cfe54f6d3fab0fc8ccf05a9102d/play-services-vision-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/99e7c4a58577bca83db223c97d7dff44/play-services-vision-image-label-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/99e7c4a58577bca83db223c97d7dff44/play-services-vision-image-label-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/18e0b767e0f8cce89b7a46aca296c018/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:17.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/18e0b767e0f8cce89b7a46aca296c018/jetified-play-services-vision-common-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:19.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/a7e4d55e6bd8f3a703b704ab36531a0a/jetified-firebase-ml-common-19.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:19.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/a7e4d55e6bd8f3a703b704ab36531a0a/jetified-firebase-ml-common-19.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9fb2f212d994b1d71428d565fe562e3/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9fb2f212d994b1d71428d565fe562e3/jetified-play-services-clearcut-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/ccc53957a908389ce7a84b79afabea1e/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/ccc53957a908389ce7a84b79afabea1e/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9375d3611009f879cb85fe83918bea2/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/d9375d3611009f879cb85fe83918bea2/jetified-play-services-phenotype-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/9d8dda95f0233e381fde59c2ddf62aca/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/9d8dda95f0233e381fde59c2ddf62aca/jetified-play-services-auth-base-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/2ce0ac5a1a0481fd0a028c580ddbb66c/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/2ce0ac5a1a0481fd0a028c580ddbb66c/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/b3c5161c7b672b6f922c3505b80df67f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/b3c5161c7b672b6f922c3505b80df67f/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/33fb79733b762052608f3eced8d10993/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/33fb79733b762052608f3eced8d10993/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/6bc9442bee021f83936555595f95b7dd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/6bc9442bee021f83936555595f95b7dd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f2ba23bc4224dd33fad9b812de05bb41/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f2ba23bc4224dd33fad9b812de05bb41/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/e4d772ea0ed737341301f68be113b6ed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/e4d772ea0ed737341301f68be113b6ed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/47b5a1665655a429cae174b1269e713d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/47b5a1665655a429cae174b1269e713d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/98a4350584676a6f0f58aef926c98933/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/98a4350584676a6f0f58aef926c98933/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/038b9ff0d8c0ceb2017ef2cd12ed4646/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/038b9ff0d8c0ceb2017ef2cd12ed4646/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/51b086b1b791eed8656ba914c890f880/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/51b086b1b791eed8656ba914c890f880/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bf8ebda2bece3aea1ad3805330337bf6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bf8ebda2bece3aea1ad3805330337bf6/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/80592ed26f0b9ba4884a15a558e5cd33/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/80592ed26f0b9ba4884a15a558e5cd33/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/c8251e355b7f629a0c502e139fee9f7f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/c8251e355b7f629a0c502e139fee9f7f/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/5319131a6b01dd1457a7d496e0d6346a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/5319131a6b01dd1457a7d496e0d6346a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/984000823dd7be305a9eadc28f0d58e7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/984000823dd7be305a9eadc28f0d58e7/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/3196c46764a8b609b31cb85960638548/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/3196c46764a8b609b31cb85960638548/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/3e6777de6493bd313cbaff0118a09e4f/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/weskley/.gradle/caches/transforms-2/files-2.1/3e6777de6493bd313cbaff0118a09e4f/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f34aabc8ed02f49192dc1f3623f5bf7c/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f34aabc8ed02f49192dc1f3623f5bf7c/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/c4afb69fe904e0a84c017dd5a832f5d6/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/c4afb69fe904e0a84c017dd5a832f5d6/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/76af12d4ffbc96ac38b945e7e926455e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/76af12d4ffbc96ac38b945e7e926455e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/aecbb87bffc159dea14f48916c4fb9d3/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/aecbb87bffc159dea14f48916c4fb9d3/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/2d763cb1f88d97ba4c06b8ba62123847/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/2d763cb1f88d97ba4c06b8ba62123847/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/3a87cb7583972c9f507112d7dbb0e4df/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/3a87cb7583972c9f507112d7dbb0e4df/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/b5b1e7e01b0e06c197d458b4202f56fe/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/b5b1e7e01b0e06c197d458b4202f56fe/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/6de137bffcbd27d1e32e35b13ab90f43/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/6de137bffcbd27d1e32e35b13ab90f43/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/46e04de9731906cca3a7d91d44721539/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/46e04de9731906cca3a7d91d44721539/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/001ef66b08bffb45d7464349841a7db7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/001ef66b08bffb45d7464349841a7db7/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/04ff8335b489f21ae8c90a845490c350/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/04ff8335b489f21ae8c90a845490c350/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/4be73fe0445f1c68f41d078194be4bba/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/4be73fe0445f1c68f41d078194be4bba/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/weskley/Documentos/projetos/face_recognition/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemlvision.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_ml_vision] /home/weskley/Documentos/projetos/face_recognition/build/firebase_ml_vision/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /home/weskley/Documentos/projetos/face_recognition/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/f31288db556708a6ad01e36c65992e28/jetified-firebase-iid-18.0.0/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/weskley/.gradle/caches/transforms-2/files-2.1/04135600b2b7be5ad6411758c1c4c07d/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/1aa9c211148e62b643960541f51962c9/jetified-firebase-common-17.0.0/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /home/weskley/.gradle/caches/transforms-2/files-2.1/bdd75b27ca5e36b9696ef990c27dbd11/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
